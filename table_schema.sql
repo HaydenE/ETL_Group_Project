@@ -25,9 +25,9 @@ CREATE TABLE states (
 -- Doctor Table
 CREATE TABLE prescribers (
     doctor_id INT PRIMARY KEY
-    doctor_type VARCHAR (30)
-    drug_id INT
+    doctor_type VARCHAR (60)
     state_id INT
+    drug_id INT
     gender VARCHAR (1)
     FOREIGN KEY (state_id) REFERENCES states(state_id)
     FOEIGN KEY (drug_id) REFERENCES opiods(drug_id)
