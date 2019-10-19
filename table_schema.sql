@@ -29,8 +29,7 @@ CREATE TABLE prescribers (
     doctor_type VARCHAR (60),
     state_id INT,
     gender VARCHAR (1),
-    FOREIGN KEY (state_id) REFERENCES states(state_id),
-    FOREIGN KEY (drug_id) REFERENCES opioids(drug_id)
+    FOREIGN KEY (state_id) REFERENCES states(state_id)
 );
 
 -- Prescriptions Table
