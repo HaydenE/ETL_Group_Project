@@ -7,19 +7,19 @@ CREATE TABLE opioids (
     generic_name VARCHAR (30)
 );
 
--- Overdoses Table
-CREATE TABLE overdoses (
-    state_id INT,
-    deaths INT,
-    FOREIGN KEY (state_id) REFERENCES states(state_id)
-);
-
 -- State Table
 CREATE TABLE states (
     state_id INT PRIMARY KEY,
     state_abbv VARCHAR(30),
     state_name VARCHAR(30),
     state_pop INT
+);
+
+-- Overdoses Table
+CREATE TABLE overdoses (
+    state_id INT,
+    deaths INT,
+    FOREIGN KEY (state_id) REFERENCES states(state_id)
 );
 
 -- Doctor Table
