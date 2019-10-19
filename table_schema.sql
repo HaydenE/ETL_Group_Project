@@ -17,9 +17,10 @@ CREATE TABLE states (
 
 -- Overdoses Table
 CREATE TABLE overdoses (
-    state_id INT,
+    state_abbv VARCHAR,
+    year INT,
     deaths INT,
-    FOREIGN KEY (state_id) REFERENCES states(state_id)
+    FOREIGN KEY (state_abbv) REFERENCES states(state_abbv)
 );
 
 -- Doctor Table
