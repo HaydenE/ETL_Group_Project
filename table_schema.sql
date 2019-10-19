@@ -26,7 +26,7 @@ CREATE TABLE overdoses (
 -- Doctor Table
 CREATE TABLE prescribers (
     doctor_id INT PRIMARY KEY,
-    doctor_type VARCHAR (60),
+    doctor_type VARCHAR (100),
     state_id INT,
     gender VARCHAR (1),
     FOREIGN KEY (state_id) REFERENCES states(state_id)
