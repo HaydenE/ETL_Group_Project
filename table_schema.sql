@@ -31,7 +31,7 @@ CREATE TABLE prescribers (
     drug_id INT,
     gender VARCHAR (1),
     FOREIGN KEY (state_id) REFERENCES states(state_id),
-    FOREIGN KEY (drug_id) REFERENCES opiods(drug_id)
+    FOREIGN KEY (drug_id) REFERENCES opioids(drug_id)
 );
 
 -- Prescriptions Table
@@ -44,7 +44,7 @@ CREATE TABLE prescriptions (
     HYDROMORPHONE_HCL INT,
     METHADONE_HCL INT,
     MORPHINE_SULFATE INT,
-    MORPHINE_SULFATE.ER INT,
+    MORPHINE_SULFATE_ER INT,
     OXYCODONE_ACETAMINOPHEN INT,
     OXYCODONE_HCL INT,
     OXYCONTIN INT,
