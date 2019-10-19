@@ -1,51 +1,51 @@
 state_id,State_abbv,State_full,Population
-1,AL,Alabama,"4,833,722"
-2,AK,Alaska,"735,132"
-3,AZ,Arizona,"6,626,624"
-4,AR,Arkansas,"2,959,373"
-5,CA,California,"38,332,521"
-6,CO,Colorado,"5,268,367"
-7,CT,Connecticut,"3,596,080"
-8,DE,Delaware,"925,749"
-9,FL,Florida,"19,552,860"
-10,GA,Georgia,"9,992,167"
-11,HI,Hawaii,"1,404,054"
-12,ID,Idaho,"1,612,136"
-13,IL,Illinois,"12,882,135"
-14,IN,Indiana,"6,570,902"
-15,IA,Iowa,"3,090,416"
-16,KS,Kansas,"2,893,957"
-17,KY,Kentucky,"4,395,295"
-18,LA,Louisiana,"4,625,470"
-19,ME,Maine,"1,328,302"
-20,MD,Maryland,"5,928,814"
-21,MA,Massachusetts,"6,692,824"
-22,MI,Michigan,"9,895,622"
-23,MN,Minnesota,"5,420,380"
-24,MS,Mississippi,"2,991,207"
-25,MO,Missouri,"6,044,171"
-26,MT,Montana,"1,015,165"
-27,NE,Nebraska,"1,868,516"
-28,NV,Nevada,"2,790,136"
-29,NH,New Hampshire,"1,323,459"
-30,NJ,New Jersey,"8,899,339"
-31,NM,New Mexico,"2,085,287"
-32,NY,New York,"19,651,127"
-33,NC,North Carolina,"9,848,060"
-34,ND,North Dakota,"723,393"
-35,OH,Ohio,"11,570,808"
-36,OK,Oklahoma,"3,850,568"
-37,OR,Oregon,"3,930,065"
-38,PA,Pennsylvania,"12,773,801"
-39,RI,Rhode Island,"1,051,511"
-40,SC,South Carolina,"4,774,839"
-41,SD,South Dakota,"844,877"
-42,TN,Tennessee,"6,495,978"
-43,TX,Texas,"26,448,193"
-44,UT,Utah,"2,900,872"
-45,VT,Vermont,"626,630"
-46,VA,Virginia,"8,260,405"
-47,WA,Washington,"6,971,406"
-48,WV,West Virginia,"1,854,304"
-49,WI,Wisconsin,"5,742,713"
-50,WY,Wyoming,"582,658"
+1,AL,Alabama,4833722
+2,AK,Alaska,735132
+3,AZ,Arizona,6626624
+4,AR,Arkansas,2959373
+5,CA,California,38332521
+6,CO,Colorado,5268367
+7,CT,Connecticut,3596080
+8,DE,Delaware,925749
+9,FL,Florida,19552860
+10,GA,Georgia,9992167
+11,HI,Hawaii,1404054
+12,ID,Idaho,1612136
+13,IL,Illinois,12882135
+14,IN,Indiana,6570902
+15,IA,Iowa,3090416
+16,KS,Kansas,2893957
+17,KY,Kentucky,4395295
+18,LA,Louisiana,4625470
+19,ME,Maine,1328302
+20,MD,Maryland,5928814
+21,MA,Massachusetts,6692824
+22,MI,Michigan,9895622
+23,MN,Minnesota,5420380
+24,MS,Mississippi,2991207
+25,MO,Missouri,6044171
+26,MT,Montana,1015165
+27,NE,Nebraska,1868516
+28,NV,Nevada,2790136
+29,NH,New Hampshire,1323459
+30,NJ,New Jersey,8899339
+31,NM,New Mexico,2085287
+32,NY,New York,19651127
+33,NC,North Carolina,9848060
+34,ND,North Dakota,723393
+35,OH,Ohio,11570808
+36,OK,Oklahoma,3850568
+37,OR,Oregon,3930065
+38,PA,Pennsylvania,12773801
+39,RI,Rhode Island,1051511
+40,SC,South Carolina,4774839
+41,SD,South Dakota,844877
+42,TN,Tennessee,6495978
+43,TX,Texas,26448193
+44,UT,Utah,2900872
+45,VT,Vermont,626630
+46,VA,Virginia,8260405
+47,WA,Washington,6971406
+48,WV,West Virginia,1854304
+49,WI,Wisconsin,5742713
+50,WY,Wyoming,582658
